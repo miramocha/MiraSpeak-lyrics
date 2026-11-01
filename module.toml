@@ -1,0 +1,9 @@
+id = "lyrics"
+name = "Lyrics"
+version = "0.1.0"
+api = 1
+entry = "main:LyricsModule"
+description = "Look up song lyrics on LRCLIB and speak them line by line."
+author = "MiraSpeak"
+permissions = ["speak", "network", "mcp_tools"]
+post_to_chat = false
